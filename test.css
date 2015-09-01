@@ -1,0 +1,26 @@
+.header {
+  background-color: hsl(17, 34%, 57%);
+  padding: 20px;
+}
+
+.header h1 {
+  text-align: center;
+}
+
+nav {
+  background-color: hsl(15, 68%, 19%);
+  padding: 20px;
+}
+
+nav a, li {
+  display: inline;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.post p{
+  text-align: left;
+}
